@@ -15,6 +15,9 @@
 * 버전 관리 : GitHub
 ## 팀원 구성 및 역할
 
+
 ## 구현 기능
-## 시연 영
+
+
+## 시연 영상
 ![GIFMaker_me](https://github.com/user-attachments/assets/7a7d06e1-450f-49e7-9e7d-397df1789496)
