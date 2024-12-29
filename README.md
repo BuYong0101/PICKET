@@ -25,7 +25,6 @@
 ![스크린샷 2024-12-29 152342](https://github.com/user-attachments/assets/283d2ed4-9cf4-47e4-b77e-577cda5e099b)
 회원가입
 ![스크린샷 2024-12-29 152654](https://github.com/user-attachments/assets/97632b94-2fdc-40b6-a503-8933218f32e5)
-<img src="https://github.com/user-attachments/assets/97632b94-2fdc-40b6-a503-8933218f32e5 width="200" height="400""/>
 로그인
 ![스크린샷 2024-12-29 154000](https://github.com/user-attachments/assets/df40eac9-9de0-4a7f-a70c-798fa68296f6)
 
