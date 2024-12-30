@@ -25,7 +25,7 @@
 ![스크린샷 2024-12-29 152342](https://github.com/user-attachments/assets/283d2ed4-9cf4-47e4-b77e-577cda5e099b)
 회원가입 및 로그인
 <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png" alt="회원가입" width="500" style="margin-right: 30px;" />
+    <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png" alt="회원가입" width="500" style="margin-right: 50px;" />
     <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png" alt="로그인" width="500" />
 </div>
 
