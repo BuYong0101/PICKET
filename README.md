@@ -21,7 +21,7 @@
 * 황규현 - 메인 페이지 및 로그인 UI 담당, 웹 홈페이지의 전반적인 UI 수정 및 지원,  백엔드 데이터 베이스  Entity 및 DTO 구현 
 
 ## 페이지별 기능
-### 메인페이지
+### * 메인페이지
 ![스크린샷 2024-12-29 152342](https://github.com/user-attachments/assets/283d2ed4-9cf4-47e4-b77e-577cda5e099b)
 회원가입 및 로그인
 <div style="display: flex;">
