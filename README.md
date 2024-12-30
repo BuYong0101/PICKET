@@ -21,7 +21,7 @@
 * 황규현 - 메인 페이지 및 로그인 UI 담당, 웹 홈페이지의 전반적인 UI 수정 및 지원,  백엔드 데이터 베이스  Entity 및 DTO 구현 
 
 ## 페이지별 기능
-메인페이지
+### 메인페이지
 ![스크린샷 2024-12-29 152342](https://github.com/user-attachments/assets/283d2ed4-9cf4-47e4-b77e-577cda5e099b)
 회원가입 및 로그인
 <div style="display: flex;">
@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png" alt="로그인" width="500" />
 </div>
 
-공연페이지
+### 공연페이지
 ![스크린샷 2024-12-29 152917](https://github.com/user-attachments/assets/4ff180e4-c517-4de7-8c03-b87a529d999e)
 상세정보
 ![스크린샷 2024-12-29 152941](https://github.com/user-attachments/assets/56613d10-ca2b-4082-a710-50a841672f25)
@@ -40,7 +40,7 @@
 ![스크린샷 2024-12-29 153922](https://github.com/user-attachments/assets/15b880ff-4413-44c9-8985-f510d698729f)
 
 
-마이페이지
+### 마이페이지
 
 마이티켓
 ![스크린샷 2024-12-29 155125](https://github.com/user-attachments/assets/0f18921e-221b-43de-8b45-c8b69295fa8b)
@@ -54,7 +54,7 @@
 ![스크린샷 2024-12-29 155232](https://github.com/user-attachments/assets/bff96a79-3a1d-48d1-b031-d976d969a171)
 
 
-고객센터
+### 고객센터
 ![스크린샷 2024-12-29 153414](https://github.com/user-attachments/assets/8af23cd6-1963-41eb-895b-b333351459c6)
 Q&A
 ![스크린샷 2024-12-29 153449](https://github.com/user-attachments/assets/d8e415ca-30dc-41b7-9039-05c9e736be23)
