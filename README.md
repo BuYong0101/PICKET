@@ -23,11 +23,10 @@
 ## 페이지별 기능
 메인페이지
 ![스크린샷 2024-12-29 152342](https://github.com/user-attachments/assets/283d2ed4-9cf4-47e4-b77e-577cda5e099b)
-회원가입
-![스크린샷 2024-12-29 152654](https://github.com/user-attachments/assets/97632b94-2fdc-40b6-a503-8933218f32e5)
+회원가입 및 로그인
+
 <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png" alt="회원가입" width="500" />
-로그인
-![스크린샷 2024-12-29 154000](https://github.com/user-attachments/assets/df40eac9-9de0-4a7f-a70c-798fa68296f6)
+<img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png" alt="로그인" width="500" />
 
 공연페이지
 ![스크린샷 2024-12-29 152917](https://github.com/user-attachments/assets/4ff180e4-c517-4de7-8c03-b87a529d999e)
