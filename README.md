@@ -35,14 +35,13 @@
 
 ### 메인페이지
 ![메인페이지](https://github.com/Ddonggirim/PICKET/blob/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png)
-
-- **회원가입 및 로그인**
 <br>
+- **회원가입 및 로그인**
 <div style="display: flex;">
     <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png" alt="공연일자" width="500" style="margin-right: 10px;" />
     <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png" alt="티켓예매" width="500" />
 </div>
-<br>
+
 
 ---
 
@@ -50,41 +49,37 @@
 ![공연 목록](https://github.com/Ddonggirim/PICKET/blob/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B3%B5%EC%97%B0%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 <br>
 - **공연 상세정보**
-<br>
 ![상세정보](https://github.com/Ddonggirim/PICKET/blob/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B3%B5%EC%97%B0%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4.png)
-<br>
+
 - **길찾기**
-<br>
 ![길찾기](https://github.com/Ddonggirim/PICKET/blob/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B8%B8%EC%B0%BE%EA%B8%B0.png)
-<br>
+
 - **티켓예매**
 <div style="display: flex;">
     <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B3%B5%EC%97%B0%EC%9D%BC%EC%9E%90.png" alt="공연일자" width="500" style="margin-right: 10px;" />
     <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%8B%B0%EC%BC%93%EC%98%88%EB%A7%A4.png" alt="티켓예매" width="500" />
 </div>
-<br>
 
 ---
 
 ### 마이페이지
 - **마이티켓**: 회원이 예매한 티켓 조회
-<br>
 ![마이티켓](https://github.com/user-attachments/assets/0f18921e-221b-43de-8b45-c8b69295fa8b)
-<br>
+
 - **관심목록**: 회원이 찜한 공연 조회
-<br>
+
 ![관심목록](https://github.com/user-attachments/assets/32b78703-4b5d-438a-8865-93252543478c)
 <br>
-- **포인트**: 회원의 포인트 충전 및 내역 조회
-<br>
+- **포인트**: 회원의 포인트 충천 및 내역조회
+
 ![포인트](https://github.com/user-attachments/assets/6f9b328f-6b84-43dc-b693-03458e319b73)
 <br>
-- **회원정보**: 회원정보 수정 및 회원탈퇴
-<br>
+- **회원정보**: 회원정보 수정, 회원탈퇴
+
 ![회원정보](https://github.com/user-attachments/assets/782229f6-ec4b-4ca7-99c2-4e2aa833bc7f)
 <br>
 - **문의내역**: 회원의 문의내역 조회
-<br>
+
 ![문의내역](https://github.com/user-attachments/assets/bff96a79-3a1d-48d1-b031-d976d969a171)
 
 ---
@@ -93,15 +88,14 @@
 ![고객센터](https://github.com/user-attachments/assets/8af23cd6-1963-41eb-895b-b333351459c6)
 <br>
 - **Q&A**: 회원들이 자주 묻는 질문
-<br>
+
 ![Q&A](https://github.com/user-attachments/assets/d8e415ca-30dc-41b7-9039-05c9e736be23)
 <br>
-- **1:1 문의**: Q&A로 미해결 시 문의서를 작성
-<br>
+- **1:1 문의**: Q&A로 미해결 시  문의서를 작성
+
 ![1:1 문의](https://github.com/user-attachments/assets/d4049d8b-8779-43e5-8591-05a666bccd38)
 
 ---
 
 ## 시연 영상
 ![GIF 시연](https://github.com/user-attachments/assets/7a7d06e1-450f-49e7-9e7d-397df1789496)
-
