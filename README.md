@@ -34,8 +34,6 @@
 상세정보
 ![스크린샷 2024-12-29 152941](https://github.com/user-attachments/assets/56613d10-ca2b-4082-a710-50a841672f25)
 티켓예매
-![스크린샷 2024-12-29 154305](https://github.com/user-attachments/assets/34cf84de-2ef2-41ba-a2ca-0d4d3ca4ba19)
-![스크린샷 2024-12-29 154350](https://github.com/user-attachments/assets/73e83da7-58ed-4352-b07a-0efc6ff18706)
 <div style="display: flex;">
     <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B3%B5%EC%97%B0%EC%9D%BC%EC%9E%90.png" alt="공연일자" width="500" style="margin-right: 10px;" />
     <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%8B%B0%EC%BC%93%EC%98%88%EB%A7%A4.png" alt="티켓예매" width="500" />
