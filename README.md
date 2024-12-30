@@ -1,6 +1,13 @@
 # PICKET
 공연 티켓 예매 사이트
 
+## 목차
+- [프로젝트 개요](#프로젝트-개요)
+- [기술 스택](#프로젝트-기술-스택)
+- [팀원 구성 및 역할](#팀원-구성-및-역할)
+- [페이지별 기능](#페이지별-기능)
+- [시연 영상](#시연-영상)
+
 ## 프로젝트 개요
 * 이 사이트는 콘서트, 뮤지컬, 연극, 클래식, 전시회와 같은 다양한 공연들의 티켓을 예매할 수 있는 사이트입니다.
 * 직관적인 디자인과 편리한 기능들을 통해 문화 예술을 더 많은 사람들에게 쉽게 접할 수 있도 하는 것을 목표로 하고 있습니다.
@@ -33,15 +40,13 @@
 ![스크린샷 2024-12-29 152917](https://github.com/user-attachments/assets/4ff180e4-c517-4de7-8c03-b87a529d999e)
 상세정보
 ![스크린샷 2024-12-29 152941](https://github.com/user-attachments/assets/56613d10-ca2b-4082-a710-50a841672f25)
+길찾기
+![스크린샷 2024-12-29 153922](https://github.com/user-attachments/assets/15b880ff-4413-44c9-8985-f510d698729f)
 티켓예매
 <div style="display: flex;">
     <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B3%B5%EC%97%B0%EC%9D%BC%EC%9E%90.png" alt="공연일자" width="500" style="margin-right: 10px;" />
     <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%8B%B0%EC%BC%93%EC%98%88%EB%A7%A4.png" alt="티켓예매" width="500" />
 </div>
-
-길찾기
-![스크린샷 2024-12-29 153922](https://github.com/user-attachments/assets/15b880ff-4413-44c9-8985-f510d698729f)
-
 
 ### 마이페이지
 
