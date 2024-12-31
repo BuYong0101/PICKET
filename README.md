@@ -99,4 +99,4 @@
 ---
 
 ## 시연 영상
-![GIF 시연](https://github.com/user-attachments/assets/4a08347c-063a-487f-8737-4f7c9258645e)
+![시연 영상](https://github.com/Ddonggirim/PICKET/blob/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.gif)
