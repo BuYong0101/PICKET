@@ -99,4 +99,4 @@
 ---
 
 ## 시연 영상
-https://github.com/user-attachments/assets/4a08347c-063a-487f-8737-4f7c9258645e
+![1:1 문의](https://github.com/user-attachments/assets/4a08347c-063a-487f-8737-4f7c9258645e)
