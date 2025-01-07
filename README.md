@@ -39,8 +39,8 @@
 <br>
 - **회원가입 및 로그인**
 <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png" alt="공연일자" width="380" style="margin-right: 10px;" />
-    <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png" alt="티켓예매" width="380" />
+    <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png" alt="공연일자" width="400" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png" alt="티켓예매" width="400" />
 </div>
 
 
