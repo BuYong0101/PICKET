@@ -57,8 +57,8 @@
 
 - **티켓예매**
 <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B3%B5%EC%97%B0%EC%9D%BC%EC%9E%90.png" alt="공연일자" width="380" style="margin-right: 10px;" />
-    <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%8B%B0%EC%BC%93%EC%98%88%EB%A7%A4.png" alt="티켓예매" width="380" />
+    <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B3%B5%EC%97%B0%EC%9D%BC%EC%9E%90.png" alt="공연일자" width="410" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/Ddonggirim/PICKET/master/README%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%8B%B0%EC%BC%93%EC%98%88%EB%A7%A4.png" alt="티켓예매" width="410" />
 </div>
 
 ---
